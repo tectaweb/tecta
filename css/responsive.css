@@ -92,6 +92,10 @@
   .info_section .info_top {
     padding: 0;
   }
+.metaquest{
+  margin-left: 25%;
+  
+}
 
   .info_section .info_top .row>div {
     margin-bottom: 35px;
