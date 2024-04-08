@@ -242,6 +242,7 @@ a:focus {
 
 .custom_nav-container {
   padding: 0;
+padding-bottom: 40px;
 }
 
 .custom_nav-container .navbar-nav {
@@ -413,8 +414,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url(../images/background3.png);
-
+  background-image: url(../images/9d79484c5aba499d9e2aa89c233371e2.png );
   background-size: cover;
 }
 
@@ -483,6 +483,7 @@ a:focus {
   transition: all .3s;
   border: none;
   border-radius: 15px;
+
  
 }
 
@@ -500,10 +501,14 @@ a:focus {
   transition: all .3s;
   border: none;
   border-radius: 15px;
+ 
+ 
+
 }
 
 .slider_section .detail-box .btn-box .btn2:hover {
   background-color: black;
+
 }
 
 .slider_section .img-box img {
